@@ -1,0 +1,6 @@
+2025/04/10-21:59:13.735 15eb5 Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/10-21:59:13.735 15eb5 Recovering log #6
+2025/04/10-21:59:13.736 15eb5 Reusing old log /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000006.log 
+2025/04/10-21:59:15.674 15eb6 Level-0 table #11: started
+2025/04/10-21:59:15.693 15eb6 Level-0 table #11: 4028525 bytes OK
+2025/04/10-21:59:15.696 15eb6 Delete type=0 #6

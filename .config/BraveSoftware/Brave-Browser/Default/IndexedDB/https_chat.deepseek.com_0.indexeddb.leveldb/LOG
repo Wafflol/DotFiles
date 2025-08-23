@@ -1,0 +1,6 @@
+2025/03/02-19:43:32.619 56d Creating DB /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb since it was missing.
+2025/03/02-19:43:32.623 56d Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/02-21:40:07.404 56e Level-0 table #5: started
+2025/03/02-21:40:07.406 56e Level-0 table #5: 1803 bytes OK
+2025/03/02-21:40:07.408 56e Delete type=0 #3
+2025/03/02-21:40:07.408 56e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

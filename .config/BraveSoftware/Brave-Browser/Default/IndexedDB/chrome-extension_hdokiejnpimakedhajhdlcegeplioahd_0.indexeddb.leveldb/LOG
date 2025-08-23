@@ -1,0 +1,30 @@
+2025/08/22-13:08:33.204 490 Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hdokiejnpimakedhajhdlcegeplioahd_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/22-13:08:33.204 490 Recovering log #490
+2025/08/22-13:08:33.205 490 Reusing old log /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hdokiejnpimakedhajhdlcegeplioahd_0.indexeddb.leveldb/000490.log 
+2025/08/22-13:52:32.261 491 Compacting 1@1 + 1@2 files
+2025/08/22-13:52:32.269 491 Generated table #493@1: 228 keys, 313406 bytes
+2025/08/22-13:52:32.269 491 Compacted 1@1 + 1@2 files => 313406 bytes
+2025/08/22-13:52:32.271 491 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/22-13:52:32.271 491 Delete type=2 #491
+2025/08/22-13:52:32.271 491 Delete type=2 #488
+2025/08/22-16:52:33.992 491 Level-0 table #495: started
+2025/08/22-16:52:34.009 491 Level-0 table #495: 3931002 bytes OK
+2025/08/22-16:52:34.012 491 Delete type=0 #490
+2025/08/22-18:14:38.084 490 Compacting 1@1 + 1@2 files
+2025/08/22-18:14:38.092 490 Generated table #496@1: 236 keys, 317203 bytes
+2025/08/22-18:14:38.093 490 Compacted 1@1 + 1@2 files => 317203 bytes
+2025/08/22-18:14:38.094 490 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/22-18:14:38.095 490 Delete type=2 #493
+2025/08/22-18:14:38.095 490 Delete type=2 #495
+2025/08/22-23:34:35.386 490 Level-0 table #498: started
+2025/08/22-23:34:35.405 490 Level-0 table #498: 3944905 bytes OK
+2025/08/22-23:34:35.408 490 Delete type=0 #494
+2025/08/23-00:40:15.206 48f Compacting 1@1 + 1@2 files
+2025/08/23-00:40:15.212 48f Generated table #499@1: 232 keys, 314106 bytes
+2025/08/23-00:40:15.212 48f Compacted 1@1 + 1@2 files => 314106 bytes
+2025/08/23-00:40:15.214 48f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/23-00:40:15.214 48f Delete type=2 #496
+2025/08/23-00:40:15.214 48f Delete type=2 #498
+2025/08/23-01:27:22.025 490 Level-0 table #501: started
+2025/08/23-01:27:22.043 490 Level-0 table #501: 4010776 bytes OK
+2025/08/23-01:27:22.046 490 Delete type=0 #497

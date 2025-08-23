@@ -1,0 +1,6 @@
+2025/01/06-22:11:50.467 6d3 Creating DB /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.tophat.com_0.indexeddb.leveldb since it was missing.
+2025/01/06-22:11:50.472 6d3 Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.tophat.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/06-22:11:52.835 6d3 Level-0 table #5: started
+2025/01/06-22:11:52.837 6d3 Level-0 table #5: 1493 bytes OK
+2025/01/06-22:11:52.839 6d3 Delete type=0 #3
+2025/01/06-22:11:52.839 6d3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

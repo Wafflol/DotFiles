@@ -1,0 +1,7 @@
+2025/02/04-14:21:08.811 267e Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.zoom.us_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/04-14:21:08.811 267e Recovering log #3
+2025/02/04-14:21:08.812 267e Reusing old log /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.zoom.us_0.indexeddb.leveldb/000003.log 
+2025/02/04-14:21:27.720 267f Level-0 table #5: started
+2025/02/04-14:21:27.723 267f Level-0 table #5: 50783 bytes OK
+2025/02/04-14:21:27.725 267f Delete type=0 #3
+2025/02/04-14:21:27.725 267f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

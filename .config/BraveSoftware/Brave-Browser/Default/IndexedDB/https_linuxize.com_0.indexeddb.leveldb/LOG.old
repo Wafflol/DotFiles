@@ -1,0 +1,15 @@
+2025/01/13-23:19:10.130 82e Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/13-23:19:10.131 82e Recovering log #4
+2025/01/13-23:19:10.131 82e Reusing old log /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/000004.log 
+2025/01/13-23:19:42.475 82d Level-0 table #8: started
+2025/01/13-23:19:42.476 82d Level-0 table #8: 3931 bytes OK
+2025/01/13-23:19:42.479 82d Delete type=0 #4
+2025/01/13-23:19:42.479 82d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/01/13-23:19:42.479 82d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x00\xb8\xe3:FyB\x00\x01V\x00i\x00m\x00g\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00l\x00i\x00n\x00u\x00x\x00i\x00z\x00e\x00.\x00c\x00o\x00m\x00/\x00i\x00c\x00o\x00n\x00s\x00/\x00i\x00c\x00o\x00n\x00_\x001\x009\x002\x00x\x001\x009\x002\x00.\x006\x00b\x005\x009\x009\x007\x00d\x002\x005\x005\x003\x008\x001\x00a\x00e\x002\x007\x004\x007\x002\x00b\x007\x008\x00f\x00c\x004\x00e\x00e\x00f\x007\x000\x002\x00.\x00p\x00n\x00g' @ 155 : 1
+2025/01/13-23:19:42.479 82d Compacting 1@1 + 1@2 files
+2025/01/13-23:19:42.480 82d Generated table #9@1: 47 keys, 3264 bytes
+2025/01/13-23:19:42.480 82d Compacted 1@1 + 1@2 files => 3264 bytes
+2025/01/13-23:19:42.482 82d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/13-23:19:42.482 82d Delete type=2 #8
+2025/01/13-23:19:42.482 82d Delete type=2 #5
+2025/01/13-23:19:42.482 82d Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x00\xb8\xe3:FyB\x00\x01V\x00i\x00m\x00g\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00l\x00i\x00n\x00u\x00x\x00i\x00z\x00e\x00.\x00c\x00o\x00m\x00/\x00i\x00c\x00o\x00n\x00s\x00/\x00i\x00c\x00o\x00n\x00_\x001\x009\x002\x00x\x001\x009\x002\x00.\x006\x00b\x005\x009\x009\x007\x00d\x002\x005\x005\x003\x008\x001\x00a\x00e\x002\x007\x004\x007\x002\x00b\x007\x008\x00f\x00c\x004\x00e\x00e\x00f\x007\x000\x002\x00.\x00p\x00n\x00g' @ 155 : 1 .. (end); will stop at (end)

@@ -1,0 +1,30 @@
+2025/01/22-21:46:03.890 948 Creating DB /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.homedepot.com_0.indexeddb.leveldb since it was missing.
+2025/01/22-21:46:03.895 948 Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.homedepot.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/22-21:46:08.984 940 Level-0 table #5: started
+2025/01/22-21:46:08.987 940 Level-0 table #5: 21201 bytes OK
+2025/01/22-21:46:08.989 940 Delete type=0 #3
+2025/01/22-21:46:08.989 93e Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/22-21:46:08.989 93e Level-0 table #7: started
+2025/01/22-21:46:08.991 93e Level-0 table #7: 482 bytes OK
+2025/01/22-21:46:08.993 93e Delete type=0 #4
+2025/01/22-21:46:08.993 93e Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/22-21:46:08.993 93e Manual compaction at level-1 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 427 : 0
+2025/01/22-21:46:08.993 93e Compacting 1@1 + 1@2 files
+2025/01/22-21:46:08.995 93e Generated table #8@1: 80 keys, 1734 bytes
+2025/01/22-21:46:08.995 93e Compacted 1@1 + 1@2 files => 1734 bytes
+2025/01/22-21:46:08.997 93e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/22-21:46:08.997 93e Delete type=2 #7
+2025/01/22-21:46:08.997 93e Manual compaction at level-1 from '\x00\x05\x00\x00\x05' @ 427 : 0 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/22-21:46:54.660 93f Level-0 table #10: started
+2025/01/22-21:46:54.662 93f Level-0 table #10: 6544 bytes OK
+2025/01/22-21:46:54.664 93f Delete type=2 #5
+2025/01/22-21:46:54.664 93f Delete type=0 #6
+2025/01/22-21:46:54.664 93f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/01/22-21:46:54.664 93f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01!\x03\x00\xd0\xc0J\x114zB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 639 : 1
+2025/01/22-21:46:54.664 93f Compacting 1@1 + 1@2 files
+2025/01/22-21:46:54.666 93f Generated table #11@1: 156 keys, 3990 bytes
+2025/01/22-21:46:54.666 93f Compacted 1@1 + 1@2 files => 3990 bytes
+2025/01/22-21:46:54.667 93f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/22-21:46:54.668 93f Delete type=2 #8
+2025/01/22-21:46:54.668 93f Delete type=2 #10
+2025/01/22-21:46:54.668 93f Manual compaction at level-1 from '\x00\x03\x01!\x03\x00\xd0\xc0J\x114zB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 639 : 1 .. (end); will stop at (end)

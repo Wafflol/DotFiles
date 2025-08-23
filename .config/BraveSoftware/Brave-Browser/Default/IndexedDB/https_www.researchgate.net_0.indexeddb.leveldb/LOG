@@ -1,0 +1,6 @@
+2025/04/06-22:18:39.040 525 Creating DB /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.researchgate.net_0.indexeddb.leveldb since it was missing.
+2025/04/06-22:18:39.045 525 Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.researchgate.net_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/06-22:18:44.567 526 Level-0 table #5: started
+2025/04/06-22:18:44.569 526 Level-0 table #5: 1065 bytes OK
+2025/04/06-22:18:44.571 526 Delete type=0 #3
+2025/04/06-22:18:44.571 526 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

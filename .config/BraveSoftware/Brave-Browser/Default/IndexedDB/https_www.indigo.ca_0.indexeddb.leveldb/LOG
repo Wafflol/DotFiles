@@ -1,0 +1,6 @@
+2025/02/09-21:34:45.621 51a Creating DB /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.indigo.ca_0.indexeddb.leveldb since it was missing.
+2025/02/09-21:34:45.627 51a Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.indigo.ca_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/09-21:36:25.274 51a Level-0 table #5: started
+2025/02/09-21:36:25.275 51a Level-0 table #5: 1827 bytes OK
+2025/02/09-21:36:25.277 51a Delete type=0 #3
+2025/02/09-21:36:25.277 51a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

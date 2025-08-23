@@ -1,0 +1,6 @@
+2025/08/22-13:08:44.823 48f Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/22-13:08:44.823 48f Recovering log #131
+2025/08/22-13:08:44.830 48f Reusing old log /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000131.log 
+2025/08/22-23:23:25.294 490 Level-0 table #136: started
+2025/08/22-23:23:25.308 490 Level-0 table #136: 3996220 bytes OK
+2025/08/22-23:23:25.310 490 Delete type=0 #131

@@ -1,0 +1,6 @@
+2025/03/16-13:54:58.304 9ff Creating DB /home/tommy/.config/BraveSoftware/Brave-Browser/Default/WebStorage/98/IndexedDB/indexeddb.leveldb since it was missing.
+2025/03/16-13:54:58.309 9ff Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/WebStorage/98/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/03/16-14:04:40.433 a00 Level-0 table #5: started
+2025/03/16-14:04:40.435 a00 Level-0 table #5: 10930 bytes OK
+2025/03/16-14:04:40.437 a00 Delete type=0 #3
+2025/03/16-14:04:40.437 a00 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

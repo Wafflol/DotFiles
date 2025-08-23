@@ -1,0 +1,15 @@
+2025/02/04-16:11:13.300 2680 Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.tophat.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/04-16:11:13.300 2680 Recovering log #4
+2025/02/04-16:11:13.300 2680 Reusing old log /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.tophat.com_0.indexeddb.leveldb/000004.log 
+2025/02/04-16:11:15.314 267f Level-0 table #8: started
+2025/02/04-16:11:15.316 267f Level-0 table #8: 209 bytes OK
+2025/02/04-16:11:15.318 267f Delete type=0 #4
+2025/02/04-16:11:15.318 267f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/02/04-16:11:15.318 267f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 59 : 1
+2025/02/04-16:11:15.318 267f Compacting 1@1 + 1@2 files
+2025/02/04-16:11:15.320 267f Generated table #9@1: 21 keys, 1019 bytes
+2025/02/04-16:11:15.320 267f Compacted 1@1 + 1@2 files => 1019 bytes
+2025/02/04-16:11:15.322 267f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/04-16:11:15.322 267f Delete type=2 #8
+2025/02/04-16:11:15.322 267f Delete type=2 #5
+2025/02/04-16:11:15.322 267f Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 59 : 1 .. (end); will stop at (end)

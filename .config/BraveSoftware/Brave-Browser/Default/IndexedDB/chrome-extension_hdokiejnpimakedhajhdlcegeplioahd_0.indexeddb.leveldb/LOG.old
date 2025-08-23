@@ -1,0 +1,6 @@
+2025/08/22-13:02:14.177 49b Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hdokiejnpimakedhajhdlcegeplioahd_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/22-13:02:14.177 49b Recovering log #485
+2025/08/22-13:02:14.189 49b Reusing old log /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hdokiejnpimakedhajhdlcegeplioahd_0.indexeddb.leveldb/000485.log 
+2025/08/22-13:03:02.840 49c Level-0 table #491: started
+2025/08/22-13:03:02.854 49c Level-0 table #491: 3863168 bytes OK
+2025/08/22-13:03:02.857 49c Delete type=0 #485

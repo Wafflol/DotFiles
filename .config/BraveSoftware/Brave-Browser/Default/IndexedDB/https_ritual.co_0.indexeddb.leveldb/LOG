@@ -1,0 +1,29 @@
+2025/01/20-23:30:46.304 604 Creating DB /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ritual.co_0.indexeddb.leveldb since it was missing.
+2025/01/20-23:30:46.309 604 Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ritual.co_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/20-23:30:46.317 606 Level-0 table #5: started
+2025/01/20-23:30:46.320 606 Level-0 table #5: 656 bytes OK
+2025/01/20-23:30:46.323 606 Delete type=0 #3
+2025/01/20-23:30:46.323 606 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-23:30:46.329 606 Level-0 table #7: started
+2025/01/20-23:30:46.330 606 Level-0 table #7: 1294 bytes OK
+2025/01/20-23:30:46.333 606 Delete type=0 #4
+2025/01/20-23:30:46.333 604 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-23:30:55.680 605 Level-0 table #9: started
+2025/01/20-23:30:55.681 605 Level-0 table #9: 12729 bytes OK
+2025/01/20-23:30:55.683 605 Delete type=0 #6
+2025/01/20-23:30:55.683 605 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x007\x007\x007\x009\x008\x006\x003\x005\x002\x004\x004\x00:\x00w\x00e\x00b\x00:\x000\x00e\x006\x00d\x00f\x000\x005\x000\x00c\x000\x00c\x001\x000\x002\x004\x004\x003\x00b\x00c\x00f\x00c\x009' @ 179 : 1
+2025/01/20-23:30:55.683 605 Compacting 1@0 + 1@1 files
+2025/01/20-23:30:55.685 605 Generated table #10@0: 164 keys, 9343 bytes
+2025/01/20-23:30:55.685 605 Compacted 1@0 + 1@1 files => 9343 bytes
+2025/01/20-23:30:55.687 605 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/20-23:30:55.687 605 Delete type=2 #7
+2025/01/20-23:30:55.687 605 Delete type=2 #9
+2025/01/20-23:30:55.687 605 Manual compaction at level-0 from '\x00\x05\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x007\x007\x007\x009\x008\x006\x003\x005\x002\x004\x004\x00:\x00w\x00e\x00b\x00:\x000\x00e\x006\x00d\x00f\x000\x005\x000\x00c\x000\x00c\x001\x000\x002\x004\x004\x003\x00b\x00c\x00f\x00c\x009' @ 179 : 1 .. (end); will stop at (end)
+2025/01/20-23:30:55.687 605 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x007\x007\x007\x009\x008\x006\x003\x005\x002\x004\x004\x00:\x00w\x00e\x00b\x00:\x000\x00e\x006\x00d\x00f\x000\x005\x000\x00c\x000\x00c\x001\x000\x002\x004\x004\x003\x00b\x00c\x00f\x00c\x009' @ 287 : 1
+2025/01/20-23:30:55.687 605 Compacting 1@1 + 1@2 files
+2025/01/20-23:30:55.689 605 Generated table #11@1: 59 keys, 8312 bytes
+2025/01/20-23:30:55.689 605 Compacted 1@1 + 1@2 files => 8312 bytes
+2025/01/20-23:30:55.691 605 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/20-23:30:55.691 605 Delete type=2 #5
+2025/01/20-23:30:55.691 605 Delete type=2 #10
+2025/01/20-23:30:55.691 605 Manual compaction at level-1 from '\x00\x05\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x007\x007\x007\x009\x008\x006\x003\x005\x002\x004\x004\x00:\x00w\x00e\x00b\x00:\x000\x00e\x006\x00d\x00f\x000\x005\x000\x00c\x000\x00c\x001\x000\x002\x004\x004\x003\x00b\x00c\x00f\x00c\x009' @ 287 : 1 .. (end); will stop at (end)

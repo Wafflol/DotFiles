@@ -1,0 +1,36 @@
+2024/12/31-00:57:54.007 688 Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.topuniversities.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/31-00:57:54.007 688 Recovering log #20
+2024/12/31-00:57:54.007 688 Reusing old log /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.topuniversities.com_0.indexeddb.leveldb/000020.log 
+2024/12/31-00:57:54.007 688 Delete type=2 #19
+2024/12/31-00:57:54.019 689 Level-0 table #25: started
+2024/12/31-00:57:54.020 689 Level-0 table #25: 965 bytes OK
+2024/12/31-00:57:54.022 689 Delete type=0 #20
+2024/12/31-00:57:54.022 688 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 330 : 1
+2024/12/31-00:57:54.022 688 Compacting 1@0 + 1@1 files
+2024/12/31-00:57:54.024 688 Generated table #26@0: 93 keys, 1705 bytes
+2024/12/31-00:57:54.024 688 Compacted 1@0 + 1@1 files => 1705 bytes
+2024/12/31-00:57:54.026 688 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/31-00:57:54.026 688 Delete type=2 #25
+2024/12/31-00:57:54.026 688 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 330 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/31-00:57:59.136 68a Level-0 table #28: started
+2024/12/31-00:57:59.138 68a Level-0 table #28: 952 bytes OK
+2024/12/31-00:57:59.140 68a Delete type=2 #22
+2024/12/31-00:57:59.140 68a Delete type=0 #24
+2024/12/31-00:57:59.140 689 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 363 : 1
+2024/12/31-00:57:59.140 689 Compacting 1@0 + 1@1 files
+2024/12/31-00:57:59.142 689 Generated table #29@0: 101 keys, 1804 bytes
+2024/12/31-00:57:59.142 689 Compacted 1@0 + 1@1 files => 1804 bytes
+2024/12/31-00:57:59.144 689 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/31-00:57:59.144 689 Delete type=2 #28
+2024/12/31-00:57:59.144 689 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 363 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/31-00:58:10.060 68a Level-0 table #31: started
+2024/12/31-00:58:10.062 68a Level-0 table #31: 955 bytes OK
+2024/12/31-00:58:10.064 68a Delete type=0 #27
+2024/12/31-00:58:10.064 68a Delete type=2 #26
+2024/12/31-00:58:10.064 689 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 396 : 1
+2024/12/31-00:58:10.064 689 Compacting 1@0 + 1@1 files
+2024/12/31-00:58:10.066 689 Generated table #32@0: 109 keys, 1860 bytes
+2024/12/31-00:58:10.066 689 Compacted 1@0 + 1@1 files => 1860 bytes
+2024/12/31-00:58:10.068 689 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/31-00:58:10.068 689 Delete type=2 #31
+2024/12/31-00:58:10.068 689 Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 396 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)

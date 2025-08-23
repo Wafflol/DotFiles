@@ -1,0 +1,17 @@
+2025/02/09-20:00:17.886 519 Creating DB /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sephora.com_0.indexeddb.leveldb since it was missing.
+2025/02/09-20:00:17.890 519 Reusing MANIFEST /home/tommy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sephora.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/09-20:00:22.005 51b Level-0 table #5: started
+2025/02/09-20:00:22.008 51b Level-0 table #5: 1852 bytes OK
+2025/02/09-20:00:22.010 51b Delete type=0 #3
+2025/02/09-20:00:22.010 519 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/09-20:00:22.010 519 Level-0 table #7: started
+2025/02/09-20:00:22.012 519 Level-0 table #7: 495 bytes OK
+2025/02/09-20:00:22.014 519 Delete type=0 #4
+2025/02/09-20:00:22.014 519 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/09-20:00:22.014 519 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 121 : 0
+2025/02/09-20:00:22.014 519 Compacting 1@1 + 1@2 files
+2025/02/09-20:00:22.016 519 Generated table #8@1: 30 keys, 876 bytes
+2025/02/09-20:00:22.016 519 Compacted 1@1 + 1@2 files => 876 bytes
+2025/02/09-20:00:22.017 519 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/09-20:00:22.017 519 Delete type=2 #7
+2025/02/09-20:00:22.018 519 Manual compaction at level-1 from '\x00\x03\x00\x00\x05' @ 121 : 0 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

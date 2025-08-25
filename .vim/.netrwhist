@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/tommy/.config'
+let g:netrw_dirhist_7='/home/tommy'
+let g:netrw_dirhist_6='/home/tommy/.config'
+let g:netrw_dirhist_5='/boot/EFI/Linux'
+let g:netrw_dirhist_4='/boot/EFI'
+let g:netrw_dirhist_3='/boot/EFI/BOOT'
+let g:netrw_dirhist_2='/boot/EFI'
+let g:netrw_dirhist_1='/boot/loader/keys'

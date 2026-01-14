@@ -1,0 +1,20 @@
+{
+  "name": "my-systemverilog-snippets",
+  "version": "0.1.0",
+  "description": "A set of SystemVerilog/Verilog snippets for LuaSnip",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "snippets",
+    "systemverilog",
+    "verilog",
+    "luasnip"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/my-systemverilog-snippets.git"
+  },
+  "author": "Your Name <youremail@example.com>",
+  "license": "MIT"
+}

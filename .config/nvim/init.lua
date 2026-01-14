@@ -7,8 +7,10 @@ vim.g.maplocalleader = ' '
 --CUSTOM
 vim.keymap.set('n', '<leader>pv', vim.cmd.Ex, { desc = 'Open Explorer' })
 vim.api.nvim_set_keymap('n', '<leader>cc', ':w<CR>:!gcc % -o %:r && ./%:r<CR>', { noremap = true, silent = true })
+
 vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
+vim.opt.expandtab = true
 
 -- Set to true if you have a Nerd Font installed and selected in the terminal
 vim.g.have_nerd_font = true
@@ -144,6 +146,34 @@ vim.opt.rtp:prepend(lazypath)
 require('lazy').setup({
   -- NOTE: Plugins can be added with a link (or for a github repo: 'owner/repo' link).
   'tpope/vim-sleuth', -- Detect tabstop and shiftwidth automatically
+  {
+    'dhruvasagar/vim-table-mode',
+  },
+  {
+    'vyfor/cord.nvim',
+    build = ':Cord update',
+    -- opts = {}
+  },
+
+  -- {
+  --   'OXY2DEV/markview.nvim',
+  --   lazy = false,
+  --
+  --   -- Completion for `blink.cmp`
+  --   dependencies = { 'saghen/blink.cmp' },
+  -- },
+
+  {
+    'L3MON4D3/LuaSnip',
+    dependencies = {
+      'saadparwaiz1/cmp_luasnip',
+      'rafamadriz/friendly-snippets',
+    },
+    config = function()
+      require('luasnip.loaders.from_vscode').lazy_load()
+      require('luasnip.loaders.from_lua').lazy_load { paths = { './LuaSnip/snippets' } }
+    end,
+  },
 
   -- {
   --   'OscarCreator/rsync.nvim',
@@ -632,8 +662,13 @@ require('lazy').setup({
           lsp_format = lsp_format_opt,
         }
       end,
+      formatters = {
+        verible = { command = vim.fn.expand '~/bin/verible-format' },
+      },
       formatters_by_ft = {
         lua = { 'stylua' },
+        verilog = { 'verible' },
+        systemverilog = { 'verible' },
         -- Conform can also run multiple formatters sequentially
         -- python = { "isort", "black" },
         --
@@ -649,6 +684,7 @@ require('lazy').setup({
     dependencies = {
       -- Snippet Engine & its associated nvim-cmp source
       {
+        'hrsh7th/cmp-buffer',
         'L3MON4D3/LuaSnip',
         build = (function()
           -- Build Step is needed for regex support in snippets.
@@ -754,8 +790,16 @@ require('lazy').setup({
           { name = 'nvim_lsp' },
           { name = 'luasnip' },
           { name = 'path' },
+          { name = 'buffer' },
         },
       }
+      cmp.setup.filetype('systemverilog', {
+        source = cmp.config.sources {
+          { name = 'nvim_lsp' },
+          { name = 'luasnip' },
+          { name = 'buffer' },
+        },
+      })
     end,
   },
 
